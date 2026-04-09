@@ -24,3 +24,5 @@
 ## 三、如果要绑定自定义域名
 
 可在 `docs/` 下创建 `CNAME` 文件，内容为你的域名（例如 `www.example.com`）。
+
+> Redeploy trigger: 2026-04-10
